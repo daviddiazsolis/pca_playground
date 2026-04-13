@@ -143,7 +143,7 @@ export const translations: Record<Language, TranslationMap> = {
     // Footer
     footerCreatedBy: 'Created by',
     footerRole: 'Ph.D.',
-    footerLiveCoded: 'This site was built with the help of Claude AI.',
+    footerLiveCoded: 'This site was built with the help of generative AI.',
   },
 
   es: {
@@ -285,6 +285,6 @@ export const translations: Record<Language, TranslationMap> = {
     // Footer
     footerCreatedBy: 'Creado por',
     footerRole: 'Ph.D.',
-    footerLiveCoded: 'Este sitio fue construido con la ayuda de Claude AI.',
+    footerLiveCoded: 'Este sitio fue construido con la ayuda de IA generativa.',
   },
 }
